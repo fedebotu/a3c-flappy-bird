@@ -2,7 +2,7 @@
 
 Deep Reinforcement Learning implementation in Keras of an AI controlling the popular Flappy Bird videogame, using Asynchronous Advantage Actor Critic (A3C.
 
-|[alt text](https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/FlappyBackground.png)
+![alt text](https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/FlappyBackground.png)
 
 *By Federico Berto
 Bachelor's degree thesis for Joint double degree for Tongji University and University of Bologna. For more details, please contact Federico Berto at: berto.federico2@gmail.com
