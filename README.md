@@ -6,8 +6,8 @@ Deep Reinforcement Learning implementation in Keras of an AI controlling the pop
   <img src="https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/FlappyBackground.png">
 </p>
 
-By Federico Berto
-Bachelor's degree thesis for Joint double degree for Tongji University and University of Bologna. For more details, please contact Federico Berto at: berto.federico2@gmail.com
+By Federico Berto: 
+Bachelor's degree thesis for Joint double degree for Tongji University and University of Bologna. For more details, please contact me at: berto.federico2@gmail.com
 
 Original implementation:
 For more information about the project details, see this [blog post](https://shalabhsingh.github.io/Deep-RL-Flappy-Bird/) associated with this project.
