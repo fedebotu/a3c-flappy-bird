@@ -32,6 +32,6 @@ This work is based on the following repos and blogs-
 
 # MODES:
 
-play.py --> press SPACE to flap the bird
-test.py --> test one network model
-train_network.py --> train a network
+* play.py --> press SPACE to flap the bird and play the game
+* test.py --> test one of the network models
+* train_network.py --> train the network for a better performance by changing hyperparameters and/or environment settings
