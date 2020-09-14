@@ -9,6 +9,7 @@ Deep Reinforcement Learning implementation in Keras of an AI controlling the pop
 By Federico Berto: 
 Bachelor's degree thesis for Joint double degree for Tongji University and University of Bologna. For more details, please contact me at: berto.federico2@gmail.com
 
+
 Original implementation:
 For more information about the project details, see this [blog post](https://shalabhsingh.github.io/Deep-RL-Flappy-Bird/) associated with this project.
 
@@ -39,3 +40,9 @@ This work is based on the following repos and blogs-
 * play.py --> press SPACE to flap the bird
 * test.py --> test one network model
 * train_network.py --> train a network
+
+# A3C Architecture
+
+<p align="center">
+  <img src="https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/A3C%20Architecture.png" width = 100>
+</p>
