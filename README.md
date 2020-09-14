@@ -1,19 +1,19 @@
-# A3C_Keras_FlappyBird
-FEDERICO BERTO
-Bachelor's degree thesis for Joint double degree for Tongji University and University of Bologna
+# A3C Flappy Bird
 
-#See LICENSE for further details
-For more details, please contact Federico Berto: berto.federico2@gmail.com
+Deep Reinforcement Learning implementation in Keras of an AI controlling the popular Flappy Bird videogame, using Asynchronous Advantage Actor Critic (A3C.
+
+*By Federico Berto
+Bachelor's degree thesis for Joint double degree for Tongji University and University of Bologna. For more details, please contact Federico Berto at: berto.federico2@gmail.com
 
 Original implementation:
 For more information about the project details, see this [blog post](https://shalabhsingh.github.io/Deep-RL-Flappy-Bird/) associated with this project.
 
+See LICENSE for further details
 Copyright (c) 2019 Federico Berto
-
 based on:
 Copyright (c) 2017 Shalabh Singh
 
-# Installation Dependencies
+# Installation of Dependencies
 * Python 3.5
 * Keras 2.0
 * pygame 
@@ -30,9 +30,8 @@ This work is based on the following repos and blogs-
 3. http://karpathy.github.io/2016/05/31/rl/
 
 
-MODES:
+# Python Files Explanation:
 
-play.py --> press SPACE to flap the bird
-test.py --> test one network model
-train_network.py --> train a network
-
+* play.py --> press SPACE to flap the bird
+* test.py --> test one network model
+* train_network.py --> train a network
