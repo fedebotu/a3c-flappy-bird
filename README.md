@@ -18,6 +18,13 @@ Copyright (c) 2019 Federico Berto
 based on:
 Copyright (c) 2017 Shalabh Singh
 
+
+# Network Architecture
+
+<p align="center">
+  <img src="https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/A3C%20Architecture.png" height = 400>
+</p>
+
 # Installation of Dependencies
 * Python 3.5
 * Keras 2.0
@@ -41,8 +48,3 @@ This work is based on the following repos and blogs-
 * test.py --> test one network model
 * train_network.py --> train a network
 
-# A3C Architecture
-
-<p align="center">
-  <img src="https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/A3C%20Architecture.png" height = 400>
-</p>
