@@ -13,7 +13,7 @@ Copyright (c) 2019 Federico Berto
 based on:
 Copyright (c) 2017 Shalabh Singh
 
-# Installation Dependencies
+# Installation of Dependencies
 * Python 3.5
 * Keras 2.0
 * pygame 
