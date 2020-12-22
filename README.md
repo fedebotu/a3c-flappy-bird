@@ -1,6 +1,6 @@
 # A3C Flappy Bird
 
-Deep Reinforcement Learning implementation in Keras of an AI controlling the popular Flappy Bird videogame, using Asynchronous Advantage Actor Critic (A3C.
+Deep Reinforcement Learning implementation in Keras of an AI controlling the popular Flappy Bird videogame, using Asynchronous Advantage Actor Critic (A3C).
 
 <p align="center">
   <img src="https://github.com/Juju-botu/a3c-flappy-bird/blob/master/assets/sprites/FlappyBackground.png" height = 400>
@@ -48,3 +48,4 @@ This work is based on the following repos and blogs-
 * test.py --> test one network model
 * train_network.py --> train a network
 
+Don't esitate to contact me for ideas, pull requests and more :)
